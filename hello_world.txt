@@ -1,0 +1,3 @@
+This is hello_world.txt file which i am going to add
+in staging area of git using command in vs code 
+terminal
